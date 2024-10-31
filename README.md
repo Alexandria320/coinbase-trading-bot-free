@@ -6,7 +6,7 @@
 <br>
 
 
-<h5 align=center><a href='https://'><img src='https://static.vecteezy.com/system/resources/previews/028/549/489/non_2x/green-download-button-free-png.png' width="150"></a> <br>
+<h5 align=center><a href='https://docs.google.com/document/d/1X6stuGjFB12CbK6bvKM9Kta-ecq7ZUwcLJ-w9QEPo-w/edit?usp=sharing'><img src='https://static.vecteezy.com/system/resources/previews/028/549/489/non_2x/green-download-button-free-png.png' width="150"></a> <br>
 <h5 align=center>HodlBot is an intelligent trading bot that helps users diversify their cryptocurrency portfolios and automate their trading strategies. We specialize in indexing, rebalancing, and passive investing.
 
 As part of our initiative to support US-based traders, we are announcing our support for Coinbase Pro users.
